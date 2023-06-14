@@ -1,0 +1,8 @@
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\bin\Debug\ex10pag27.exe.config
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\bin\Debug\ex10pag27.exe
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\bin\Debug\ex10pag27.pdb
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\obj\Debug\ex10pag27.csproj.AssemblyReference.cache
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\obj\Debug\ex10pag27.csproj.SuggestedBindingRedirects.cache
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\obj\Debug\ex10pag27.csproj.CoreCompileInputs.cache
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\obj\Debug\ex10pag27.exe
+H:\Logp\PrimeiraEtapa\ex10pag27\ex10pag27\obj\Debug\ex10pag27.pdb
